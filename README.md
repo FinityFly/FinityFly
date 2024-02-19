@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=FinityFly&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="finityfly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FinityFly&theme=gruvbox&hide_border=true" alt="finityfly" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FinityFly&theme=gruvbox&hide_border=true" alt="finityfly" /></p>
