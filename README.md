@@ -13,6 +13,6 @@
 <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=finityfly&show_icons=true&locale=en&layout=compact" alt="finityfly" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=FinityFly&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="finityfly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finityfly&show_icons=true&theme=gruvbox&locale=en" alt="finityfly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FinityFly&theme=gruvbox&hide_border=true" alt="finityfly" /></p>
