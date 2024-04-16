@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer and ML enthusiast</h3>
 
 - 🔭 I’m currently working on [GeoPredictr](https://github.com/FinityFly/geopredictr)
-- 📫 How to reach me **daniellu@cmail.carleton.ca**
+- 📫 How to reach me **personal@daniellu.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
